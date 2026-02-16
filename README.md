@@ -1,26 +1,35 @@
-# GU1LL3_L4-C0
-
 <h1 align="center">Guillermo L.C.</h1>
-<h3 align="center">Fullstack Developer | React • Next.js • Firebase</h3>
+<p align="center">
+Fullstack Developer — React · Next.js · Firebase
+</p>
 
 ---
 
-### 🧠 About Me
+### About
 
-- 🚀 Building modern fullstack web applications
-- ⚙️ Frontend architecture with React & Next.js
-- 🔥 Backend integration with Firebase & Node.js
-- 📍 Argentina
+Building scalable fullstack applications with clean architecture and modern UI.
+
+Argentina.
 
 ---
 
-### 🛠 Tech Stack
+### Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,firebase,nodejs,git&theme=dark" />
 </p>
+
+---
+
+### Selected Work
+
+**Catalina POS**  
+Fullstack system with product management and stock control.  
+Built with Next.js & Firebase.
+
+**LifeRemaining (Memento Mori)**  
+Interactive life visualization component (52×80 grid system).  
+Dynamic rendering and state-driven UI.
+
+**Freedom Academy (Frontend)**  
+Next.js application with i18n architecture and optimized UI patterns.
