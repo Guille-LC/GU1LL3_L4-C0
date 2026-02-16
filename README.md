@@ -4,11 +4,13 @@
 Fullstack Engineer | React • Next.js • Firebase
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-</p>
-
 ---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,nodejs,git" />
+</p>
 
 ## Professional Overview
 
