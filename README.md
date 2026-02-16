@@ -9,7 +9,7 @@ Fullstack Engineer | React • Next.js • Firebase
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,nodejs,git" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;React+%2B+Next.js+Developer;Node+%2B+MongoDB+Backend" />
 </p>
 
 ## Professional Overview
