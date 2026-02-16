@@ -12,6 +12,15 @@ Fullstack Engineer | React • Next.js • Firebase
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;React+%2B+Next.js+Developer;Node+%2B+MongoDB+Backend" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,firebase,git&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60"/>
+</p>
+
 ## Professional Overview
 
 Fullstack developer focused on building scalable web systems with modern frontend architecture and cloud-integrated backend services.
