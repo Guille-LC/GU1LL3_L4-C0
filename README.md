@@ -8,14 +8,28 @@ Fullstack Engineer | React • Next.js • Firebase
 
 ### Skills
 
-<h3 align="center">Frontend</h3>
+<br>
+
+<h3 align="center">🎨 Frontend</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&theme=dark" height="110"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs&theme=dark" height="125"/>
 </p>
 
-<h3 align="center">Backend</h3>
+<br>
+
+<h3 align="center">🧠 Backend & Database</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark" height="110"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark" height="125"/>
+</p>
+
+<br>
+
+<h3 align="center">⚙️ Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="125"/>
 </p>
 
 ## Professional Overview
