@@ -1,51 +1,41 @@
 <h1 align="center">Guillermo L.C.</h1>
+
 <p align="center">
-Fullstack Developer — React · Next.js · Firebase
+Fullstack Engineer | React • Next.js • Firebase
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
 ---
 
-### About
+## Professional Overview
 
-Building scalable fullstack applications with clean architecture and modern UI.
+Fullstack developer focused on building scalable web systems with modern frontend architecture and cloud-integrated backend services.
 
-Argentina.
-
----
-
-### Languages & Tools
-
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/>TypeScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/>Vercel</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
-</tr>
-</table>
+Experience designing production-ready applications with emphasis on maintainability, performance and clean code principles.
 
 ---
 
-### Selected Work
+## Technical Focus
 
-**Catalina POS**  
-Fullstack system with product management and stock control.  
-Built with Next.js & Firebase.
+- Frontend Architecture with React
+- Fullstack systems using Next.js
+- Firebase backend integration
+- Cloud-based data workflows
+- Scalable UI design patterns
 
-**LifeRemaining (Memento Mori)**  
-Interactive life visualization component (52×80 grid system).  
-Dynamic rendering and state-driven UI.
+---
 
-**Freedom Academy (Frontend)**  
-Next.js application with i18n architecture and optimized UI patterns.
+## Selected Projects
+
+**Memento Mori**  
+Dynamic life-visualization system built with TypeScript and Next.js.
+
+**Catalina Web**  
+Institutional site with structured content architecture.
+
+**E-commerce Backend**  
+REST-based service layer with authentication and product management.
+
